@@ -34,12 +34,12 @@ The Los Angles R Users Group prioritizes marginalized people's safety over privi
 
 If you are being harassed by a member/guest/participant of/at amy event involving the Los Angles R Users Group, notice that someone else is being harassed, or have any other concerns, please contact the organizers. You may contact the group account or any of the individual organizers:
 
-LA R Users Group: larusers [at] gmail [dot] com
-Malcolm Barrett: malcolmbarrett [at] gmail [dot] com
-Zhi Yang: zyang895 [at] gmail [dot] com
-Emil Hvitdeldt: emil.h.hvitfeldt [at] gmail [dot] com
-George Vega Yon: g.vegayon [at] gmail [dot] com
-Amy Tzu-Yu Chen: larusers [at] gmail [dot] com
+* LA R Users Group: larusers [at] gmail [dot] com
+* Malcolm Barrett: malcolmbarrett [at] gmail [dot] com
+* Zhi Yang: zyang895 [at] gmail [dot] com
+* Emil Hvitdeldt: emil.h.hvitfeldt [at] gmail [dot] com
+* George Vega Yon: g.vegayon [at] gmail [dot] com
+* Amy Tzu-Yu Chen: larusers [at] gmail [dot] com
 
 Local incidences will be handled together with the local organizers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
