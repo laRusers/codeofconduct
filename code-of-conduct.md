@@ -39,7 +39,7 @@ Malcolm Barrett: malcolmbarrett [at] gmail [dot] com
 Zhi Yang: zyang895 [at] gmail [dot] com
 Emil Hvitdeldt: emil.h.hvitfeldt [at] gmail [dot] com
 George Vega Yon: g.vegayon [at] gmail [dot] com
-Amy Tzu-Yu Chen: larusers [at] gmail [dot] com
+Amy Tzu-Yu Chen: amy17519 [at] gmail [dot] com
 
 Local incidences will be handled together with the local organizers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
