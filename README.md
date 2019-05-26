@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The Los Angles R Users Group is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. This code of conduct applies to all chapters of the Los Angles R Users Group. 
+The Los Angeles R Users Group is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. This code of conduct applies to all chapters of the Los Angles R Users Group. 
 
 This code of conduct applies to all Los Angles R Users Group spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the organizers.
 
