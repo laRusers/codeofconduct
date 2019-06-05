@@ -32,7 +32,7 @@ The Los Angeles R Users Group prioritizes marginalized people's safety over priv
 
 ## REPORTING
 
-If you are being harassed by a member/guest/participant of/at amy event involving the Los Angeles R Users Group, notice that someone else is being harassed, or have any other concerns, please contact the organizers. You may contact the group account or any of the individual organizers:
+If you are being harassed by a member/guest/participant of/at any event involving the Los Angeles R Users Group, notice that someone else is being harassed, or have any other concerns, please contact the organizers. You may contact the group account or any of the individual organizers:
 
 * LA R Users Group: larusers [at] gmail [dot] com
 * Malcolm Barrett: malcolmbarrett [at] gmail [dot] com
